@@ -1,0 +1,50 @@
+1. Apple - Fondée en 1976. Connu pour ses produits électroniques comme l'iPhone, l'iPad et le Macintosh, ainsi que pour ses logiciels tels que iOS et macOS.
+2. Microsoft - Fondée en 1975. L'une des plus grandes entreprises de logiciels au monde, célèbre pour des produits comme le système d'exploitation Windows et la suite bureautique Office.
+3. Google (Alphabet Inc.) - Fondée en 1998. Une des principales entreprises de technologie, célèbre pour son moteur de recherche, ses services cloud et le système d'exploitation Android.
+4. Amazon - Fondée en 1994. Un géant du commerce électronique, offrant également des services de cloud computing via Amazon Web Services (AWS).
+5. Facebook (Meta Platforms) - Fondée en 2004. Un des plus grands réseaux sociaux du monde, propriétaire également d'Instagram, WhatsApp et Oculus VR.
+6. Samsung - Fondée en 1938. Entreprise multinationale sud-coréenne connue pour une large gamme de produits électroniques, y compris les smartphones, les téléviseurs et les appareils électroménagers.
+7. IBM - Fondée en 1911. L'une des plus anciennes entreprises de technologie, spécialisée dans les services informatiques, les logiciels et le matériel informatique.
+8. Intel - Fondée en 1968. Un leader mondial dans la fabrication de semi-conducteurs et de processeurs pour ordinateurs.
+9. Cisco Systems - Fondée en 1984. Une entreprise leader dans le domaine des réseaux informatiques, offrant des solutions pour les réseaux et les communications.
+10. Oracle - Fondée en 1977. Fournisseur majeur de solutions logicielles d'entreprise, notamment des bases de données et des systèmes de gestion de l'information.
+11. Dell Technologies - Fondée en 1984. Une entreprise américaine spécialisée dans les technologies de l'information, notamment les ordinateurs personnels, les serveurs et le stockage de données.
+12. HP Inc. - Fondée en 1939. Une entreprise leader dans les technologies de l'information, offrant des produits tels que les imprimantes, les ordinateurs et les services connexes.
+13. Adobe Inc. - Fondée en 1982. Fournisseur de logiciels de création, de marketing numérique et de solutions d'expérience client.
+14. Salesforce - Fondée en 1999. Une entreprise de logiciels basée sur le cloud, spécialisée dans la gestion de la relation client (CRM) et d'autres solutions commerciales.
+15. SAP SE - Fondée en 1972. Une société allemande de logiciels d'entreprise, connue pour ses solutions de planification des ressources d'entreprise (ERP) et de gestion des relations clients (CRM).
+16. Xiaomi - Fondée en 2010. Une entreprise chinoise de technologie spécialisée dans les smartphones, les appareils électroniques grand public et les produits IoT.
+17. Tencent - Fondée en 1998. Une entreprise chinoise de technologie, connue pour ses services Internet, notamment les jeux en ligne, les médias sociaux et les services de paiement.
+18. Alibaba Group - Fondée en 1999. Une entreprise chinoise de commerce électronique et de technologie, offrant une gamme diversifiée de services, y compris le commerce électronique, le cloud computing et les services financiers.
+19. NVIDIA - Fondée en 1993. Une entreprise leader dans le domaine de la technologie des semi-conducteurs, spécialisée dans les processeurs graphiques (GPU) et les unités de traitement graphique (UTG).
+20. Sony - Fondée en 1946. Une entreprise japonaise de technologie, offrant une gamme diversifiée de produits électroniques grand public, de divertissement et de services.
+21. Netflix - Fondée en 1997. Une entreprise américaine de divertissement en ligne, proposant des services de streaming de films et de séries télévisées.
+22. Twitter - Fondée en 2006. Une plateforme de médias sociaux en ligne, permettant aux utilisateurs de publier et de partager de courts messages appelés "tweets".
+23. Uber Technologies - Fondée en 2009. Une entreprise de technologie basée sur les applications, offrant des services de covoiturage, de livraison de repas et de logistique.
+24. Airbnb - Fondée en 2008. Une plateforme en ligne de location de logements à court terme, offrant une alternative aux hôtels traditionnels.
+25. Lyft - Fondée en 2012. Une entreprise de technologie de covoiturage, offrant des services de transport en voiture avec chauffeur dans de nombreuses villes du monde.
+26. Zoom Video Communications - Fondée en 2011. Une entreprise de technologie de communication vidéo, proposant des services de visioconférence et de collaboration en ligne.
+27. TikTok (Bytedance) - Fondée en 2012. Une application de médias sociaux basée sur le partage de vidéos courtes, devenue très populaire dans le monde entier.
+28. LinkedIn (Microsoft) - Fondée en 2002. Un réseau social professionnel en ligne.
+29. eBay - Fondée en 1995. Une plateforme de commerce électronique en ligne permettant aux particuliers et aux entreprises de vendre et d'acheter une grande variété de produits.
+30. Spotify - Fondée en 2006. Une plateforme de streaming musical qui permet aux utilisateurs d'accéder à une vaste bibliothèque de musique en ligne.
+31. Dropbox - Fondée en 2007. Une société de technologie de stockage de fichiers en ligne, offrant des services de stockage et de partage de fichiers dans le cloud.
+32. Slack Technologies - Fondée en 2009. Une plateforme de communication en équipe qui facilite la collaboration et la communication au sein des organisations.
+33. Pinterest - Fondée en 2010. Un site web et une application mobile permettant aux utilisateurs de découvrir et de sauvegarder des idées inspirantes sous forme d'épingles virtuelles.
+34. Tesla - Fondée en 2003. Une entreprise d'automobiles et de technologies énergétiques, spécialisée dans les véhicules électriques, les batteries et les énergies renouvelables.
+35. SpaceX - Fondée en 2002. Une société aérospatiale privée fondée par Elon Musk, qui se concentre sur le développement de technologies de lancement de fusées et de voyages spatiaux.
+36. Palantir Technologies - Fondée en 2003. Une entreprise de logiciels d'analyse de données, fournissant des solutions pour le renseignement, la défense et d'autres industries.
+37. Square - Fondée en 2009. Une société de technologie financière qui propose des solutions de paiement mobile et de point de vente pour les entreprises.
+38. Robinhood - Fondée en 2013. Une application de courtage en ligne qui permet aux utilisateurs d'acheter et de vendre des actions et d'autres actifs financiers sans frais de courtage.
+39. Atlassian - Fondée en 2002. Une entreprise de logiciels de collaboration et de gestion de projet, proposant des outils comme Jira, Confluence et Trello.
+40. ZoomInfo - Fondée en 2000. Une société de technologie de données qui fournit des informations sur les entreprises et les professionnels à des fins de vente et de marketing.
+41. Twilio - Fondée en 2008. Une plateforme de communication en tant que service (CPaaS) qui permet aux développeurs d'intégrer des fonctionnalités de communication dans leurs applications.
+42. VMware - Fondée en 1998. Une société de logiciels de virtualisation et de cloud computing, proposant des solutions pour la gestion des infrastructures informatiques.
+43. Okta - Fondée en 2009. Une société de gestion des identités et des accès (IAM) basée sur le cloud, fournissant des services d'authentification et d'autorisation sécurisés.
+44. DocuSign - Fondée en 2003. Une société de technologie de signature électronique, permettant aux utilisateurs de signer numériquement des documents en ligne de manière sécurisée.
+45. Cloudflare - Fondée en 2009. Une société de services de réseau et de sécurité basée sur le cloud, offrant des solutions de protection contre les attaques DDoS et d'accélération du contenu Web.
+46. Unity Software - Fondée en 2004. Une société de logiciels de développement de jeux vidéo, offrant une plateforme de création de jeux et d'applications en 3D.
+47. Cognizant - Fondée en 1994. Une entreprise de services informatiques et de conseil en technologie, fournissant des services de transformation numérique et de développement logiciel.
+48. Accenture - Fondée en 1989. Une entreprise mondiale de services professionnels, offrant des services de conseil en stratégie, de développement technologique et de gestion opérationnelle.
+49. Infosys - Fondée en 1981. Une multinationale de services technologiques, proposant des services de consultation, de développement de logiciels et d'externalisation des processus commerciaux.
+50. Wipro Limited - Fondée en 1945. Une entreprise indienne de technologie de l'information, fournissant des services de développement logiciel, de gestion des processus d'affaires et de consultation en technologie.
