@@ -1,0 +1,50 @@
+1. Apple Inc. - Year Founded: 1976, CEO: Tim Cook
+2. Microsoft Corporation - Year Founded: 1975, CEO: Satya Nadella
+3. Alphabet Inc. (Google) - Year Founded: 1998, CEO: Sundar Pichai
+4. Amazon.com Inc. - Year Founded: 1994, CEO: Andy Jassy
+5. Meta Platforms, Inc. (formerly Facebook, Inc.) - Year Founded: 2004, CEO: Mark Zuckerberg
+6. IBM (International Business Machines Corporation) - Year Founded: 1911, CEO: Arvind Krishna
+7. Intel Corporation - Year Founded: 1968, CEO: Pat Gelsinger
+8. Cisco Systems, Inc. - Year Founded: 1984, CEO: Chuck Robbins
+9. Oracle Corporation - Year Founded: 1977, CEO: Safra Catz
+10. Dell Technologies Inc. - Year Founded: 1984, CEO: Michael Dell
+11. HP Inc. (Hewlett-Packard) - Year Founded: 1939, CEO: Enrique Lores
+12. Salesforce.com, Inc. - Year Founded: 1999, CEO: Marc Benioff
+13. Adobe Inc. - Year Founded: 1982, CEO: Shantanu Narayen
+14. NVIDIA Corporation - Year Founded: 1993, CEO: Jensen Huang
+15. Qualcomm Incorporated - Year Founded: 1985, CEO: Cristiano Amon
+16. Samsung Electronics Co., Ltd. - Year Founded: 1969, CEO: Ki Nam Kim
+17. Tencent Holdings Limited - Year Founded: 1998, CEO: Ma Huateng (Pony Ma)
+18. Alibaba Group Holding Limited - Year Founded: 1999, CEO: Daniel Zhang
+19. Baidu, Inc. - Year Founded: 2000, CEO: Robin Li
+20. Xiaomi Corporation - Year Founded: 2010, CEO: Lei Jun
+21. Sony Corporation - Year Founded: 1946, CEO: Kenichiro Yoshida
+22. Twitter, Inc. - Year Founded: 2006, CEO: Parag Agrawal
+23. Netflix, Inc. - Year Founded: 1997, Co-CEOs: Reed Hastings and Ted Sarandos
+24. Uber Technologies, Inc. - Year Founded: 2009, CEO: Dara Khosrowshahi
+25. Lyft, Inc. - Year Founded: 2012, CEO: Logan Green and John Zimmer
+26. Airbnb, Inc. - Year Founded: 2008, CEO: Brian Chesky
+27. Pinterest, Inc. - Year Founded: 2009, CEO: Ben Silbermann
+28. Snap Inc. - Year Founded: 2011, CEO: Evan Spiegel
+29. Zoom Video Communications, Inc. - Year Founded: 2011, CEO: Eric Yuan
+30. Slack Technologies, Inc. - Year Founded: 2009, CEO: Stewart Butterfield
+31. Square, Inc. - Year Founded: 2009, CEO: Jack Dorsey
+32. PayPal Holdings, Inc. - Year Founded: 1998, CEO: Dan Schulman
+33. Palantir Technologies Inc. - Year Founded: 2003, CEO: Alex Karp
+34. Dropbox, Inc. - Year Founded: 2007, CEO: Drew Houston
+35. Spotify Technology S.A. - Year Founded: 2006, CEO: Daniel Ek
+36. ZoomInfo Technologies Inc. - Year Founded: 2007, CEO: Henry Schuck
+37. Atlassian Corporation Plc - Year Founded: 2002, CEOs: Scott Farquhar and Mike Cannon-Brookes
+38. Workday, Inc. - Year Founded: 2005, CEO: Aneel Bhusri
+39. Twilio Inc. - Year Founded: 2008, CEO: Jeff Lawson
+40. Shopify Inc. - Year Founded: 2006, CEO: Tobias Lütke
+41. DocuSign, Inc. - Year Founded: 2003, CEO: Dan Springer
+42. ServiceNow, Inc. - Year Founded: 2004, CEO: Bill McDermott
+43. Box, Inc. - Year Founded: 2005, CEO: Aaron Levie
+44. Roku, Inc. - Year Founded: 2002, CEO: Anthony Wood
+45. MongoDB, Inc. - Year Founded: 2007, CEO: Dev Ittycheria
+46. Okta, Inc. - Year Founded: 2009, CEO: Todd McKinnon
+47. Zscaler, Inc. - Year Founded: 2007, CEO: Jay Chaudhry
+48. CrowdStrike Holdings, Inc. - Year Founded: 2011, CEO: George Kurtz
+49. Cloudflare, Inc. - Year Founded: 2009, CEO: Matthew Prince
+50. Snowflake Inc. - Year Founded: 2012, CEO: Frank Slootman
