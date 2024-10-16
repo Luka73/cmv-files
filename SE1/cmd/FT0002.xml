@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<facture>
+    <achat>
+        <numeroFacture>20241016-002</numeroFacture>
+        <dateAchat>2024-10-15</dateAchat>
+        <heureAchat>11:45:00</heureAchat>
+        <client>
+            <nom>Jean Martin</nom>
+            <adresse>
+                <rue>456 Avenue du Lac</rue>
+                <ville>Lyon</ville>
+                <codePostal>69003</codePostal>
+                <pays>France</pays>
+            </adresse>
+            <identifiantFiscal>FR987654321</identifiantFiscal>
+        </client>
+        <detailsAchat>
+            <article>
+                <nom>Smartphone</nom>
+                <quantite>2</quantite>
+                <prixUnitaire>750.00</prixUnitaire>
+                <TVA>20%</TVA>
+                <prixTotal>1800.00</prixTotal>
+            </article>
+            <article>
+                <nom>Écouteurs Bluetooth</nom>
+                <quantite>1</quantite>
+                <prixUnitaire>150.00</prixUnitaire>
+                <TVA>20%</TVA>
+                <prixTotal>180.00</prixTotal>
+            </article>
+        </detailsAchat>
+        <total>
+            <sousTotal>1650.00</sousTotal>
+            <TVATotal>330.00</TVATotal>
+            <montantTotal>1980.00</montantTotal>
+        </total>
+    </achat>
+</facture>
