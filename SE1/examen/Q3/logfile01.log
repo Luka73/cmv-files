@@ -1,0 +1,6 @@
+2024-10-16 10:00:00 - Démarrage du script de sauvegarde
+2024-10-16 10:00:05 - Vérification de l'existence du répertoire de sauvegarde
+2024-10-16 10:00:06 - Le répertoire de sauvegarde n'existe pas. Création du répertoire...
+2024-10-16 10:00:10 - Copie des fichiers *.log vers le répertoire de sauvegarde
+2024-10-16 10:00:12 - 3 fichiers copiés avec succès.
+2024-10-16 10:00:15 - Fin du script de sauvegarde

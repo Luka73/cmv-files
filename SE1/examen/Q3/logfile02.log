@@ -1,0 +1,12 @@
+2024-10-16 09:30:00 - Démarrage du traitement des données
+2024-10-16 09:30:01 - Chargement du fichier de données : data_input.csv
+2024-10-16 09:30:02 - Vérification de l'intégrité des données...
+2024-10-16 09:30:03 - Intégrité des données réussie. Aucune erreur détectée.
+2024-10-16 09:30:05 - Traitement des données en cours...
+2024-10-16 09:30:10 - 1000 lignes traitées.
+2024-10-16 09:30:15 - Exportation des résultats vers : data_output.csv
+2024-10-16 09:30:16 - Fichier exporté avec succès.
+2024-10-16 09:30:17 - Envoi d'un e-mail de notification à l'utilisateur...
+2024-10-16 09:30:18 - E-mail envoyé avec succès à user@example.com
+2024-10-16 09:30:20 - Fin du traitement des données
+
