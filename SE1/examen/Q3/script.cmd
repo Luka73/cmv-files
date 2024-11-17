@@ -1,15 +1,14 @@
 @echo off
-chcp 65001
 cls
-echo Exécution du script
-:: Vérifie si le dossier backup existe, sinon le crée
+echo Execution du script
+:: Verifie si le dossier backup existe, sinon le cree
 if not exist "backup"(
   mkdir backup
-  echo Le dossier backup a été créé
+  echo Le dossier backup a ete cree
 )
 
 :: Copie les fichiers .log dans le dossier backup
 copy *.log .\backup
-echo Fichiers .log copiés dans le dossier backup
+echo Fichiers .log copies dans le dossier backup
 
 pause
