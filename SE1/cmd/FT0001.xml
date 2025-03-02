@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<facture>
+    <achat>
+        <numeroFacture>20241016-001</numeroFacture>
+        <dateAchat>2024-10-16</dateAchat>
+        <heureAchat>14:30:00</heureAchat>
+        <client>
+            <nom>Marie Dupont</nom>
+            <adresse>
+                <rue>123 Rue des Fleurs</rue>
+                <ville>Paris</ville>
+                <codePostal>75001</codePostal>
+                <pays>France</pays>
+            </adresse>
+            <identifiantFiscal>FR123456789</identifiantFiscal>
+        </client>
+        <detailsAchat>
+            <article>
+                <nom>Ordinateur portable</nom>
+                <quantite>1</quantite>
+                <prixUnitaire>1200.00</prixUnitaire>
+                <TVA>20%</TVA>
+                <prixTotal>1440.00</prixTotal>
+            </article>
+            <article>
+                <nom>Souris sans fil</nom>
+                <quantite>1</quantite>
+                <prixUnitaire>25.00</prixUnitaire>
+                <TVA>20%</TVA>
+                <prixTotal>30.00</prixTotal>
+            </article>
+        </detailsAchat>
+        <total>
+            <sousTotal>1225.00</sousTotal>
+            <TVATotal>245.00</TVATotal>
+            <montantTotal>1470.00</montantTotal>
+        </total>
+    </achat>
+</facture>

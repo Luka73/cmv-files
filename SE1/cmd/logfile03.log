@@ -1,0 +1,14 @@
+2024-10-16 14:05:23 - Démarrage du serveur web
+2024-10-16 14:05:24 - Écoute sur le port 8080
+2024-10-16 14:05:30 - Requête reçue de l'adresse IP 192.168.1.10 : GET /index.html
+2024-10-16 14:05:31 - Traitement de la requête pour /index.html
+2024-10-16 14:05:32 - Envoi de la réponse au client
+2024-10-16 14:05:33 - Requête reçue de l'adresse IP 192.168.1.12 : POST /submit
+2024-10-16 14:05:34 - Traitement de la soumission des données...
+2024-10-16 14:05:35 - Données soumises : { "name": "Alice", "message": "Hello!" }
+2024-10-16 14:05:36 - Réponse envoyée au client : { "status": "success" }
+2024-10-16 14:05:40 - Requête reçue de l'adresse IP 192.168.1.10 : GET /about.html
+2024-10-16 14:05:41 - Traitement de la requête pour /about.html
+2024-10-16 14:05:42 - Envoi de la réponse au client
+2024-10-16 14:05:50 - Arrêt du serveur web demandé
+2024-10-16 14:05:51 - Serveur web arrêté avec succès
